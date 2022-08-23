@@ -1,0 +1,38 @@
+[
+    {
+        "id":1,
+        "title":"Web Development",
+        "image":"https://images.pexels.com/photos/1181467/pexels-photo-1181467.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "description":"I've experience in web development and handled several projects of clients and want to explore in this field"
+    },
+    {
+        "id":2,
+        "title":"App Development",
+        "image":"https://images.pexels.com/photos/1181244/pexels-photo-1181244.jpeg",
+        "description":"I've experience in App development and handled several projects of clients and want to explore in this field"
+    },
+    {
+        "id":3,
+        "title":"Software Development",
+        "image":"https://images.pexels.com/photos/3861972/pexels-photo-3861972.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "description":"I've experience in Software development and handled several projects of clients and want to explore in this field"
+    },
+    {
+        "id":4,
+        "title":"Digital Marketing",
+        "image":"https://images.pexels.com/photos/905163/pexels-photo-905163.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "description":"I've experience in  Digital Marketing and handled several projects of clients and want to explore in this field"
+    },
+    {
+        "id":5,
+        "title":"Graphic Designer",
+        "image":"https://images.pexels.com/photos/196644/pexels-photo-196644.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "description":"I've experience in Graphic Design and handled several projects of clients and want to explore in this field"
+    },
+    {
+        "id":6,
+        "title":"Video Editing",
+        "image":"https://images.pexels.com/photos/1181467/pexels-photo-1181467.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "description":"I've experience in video editing and handled several projects of clients and want to explore in this field"
+    }
+]
